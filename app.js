@@ -1,1 +1,1 @@
-console.log("This is a JavaScript flie");
+console.log("This is a JavaScript file");
